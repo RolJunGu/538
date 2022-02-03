@@ -148,6 +148,8 @@ bazel test tests:q6_student_test
 What is the worst case runtime complexity of your implementation?
 
 Answer:
+If I consider the input as 3 dimension data, there are 3 variables, that is n1, n2, n3.
+So T(n) = n1 * n2 * n3 = O(n1*n2*n3) = O(n^3)
 
 
 ## Question 7 (30 Points. Medium)
