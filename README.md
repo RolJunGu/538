@@ -26,6 +26,8 @@ Write a function called **FindAverage**, which returns the average of the inputs
 4. Write several unit tests that cover all corner cases, and test your algorithm using bazel.
 You will need to only submit your algorithm implementation and the unit tests.
 
+Note: the function will return -1 if the input is empty.
+
 ## Question 3 (20 Points. Medium)
 
 Compute the worst case run-time complexity of the below functions. Please provide both the computation process and final result for full credit.
